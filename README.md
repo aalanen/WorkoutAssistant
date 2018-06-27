@@ -1,17 +1,19 @@
 # Introduction
-This is a simple workout timer and log application.  It is still in progress
+This is a simple workout timer and log application.  It is a test application primarily for me to work with the latest release of WebAPI.
+
 Technologies:
-..*C#
-..*WebAPI
-..*EF (Entity Framework) - In Memory Database
-..*Bootstrap
-..*javascript (ECMAScript/ES8)
-..*jQuery
-..*json
-..*3rd Party jQuery libraries managed with Bower
-..*CSS
-..*HTML5
-..*jsrender templating
+* C#
+* WebAPI
+* EF (Entity Framework) - In Memory Database
+* Bootstrap
+* javascript (ECMAScript/ES8)
+* jQuery
+* json
+* 3rd Party jQuery libraries managed with Bower
+* CSS
+* HTML5
+* jsrender templating
+
                                            
 
 # Getting Started
