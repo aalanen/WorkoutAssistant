@@ -3,6 +3,7 @@ This is a simple workout timer and log application.  It is a test application pr
 
 Technologies:
 * C#
+* .Net Core 2.1
 * WebAPI
 * EF (Entity Framework) - In Memory Database
 * Bootstrap
@@ -19,7 +20,7 @@ Technologies:
 # Getting Started
 1.	Installation process
 
-Download the code and open in Visual Studio 2017
+Download the code and open in **Visual Studio 2017**  __REQUIRED__ for .Net Core 2.1
 
 **The majority of the UI code is in wwwroot/scripts**
 
@@ -35,4 +36,3 @@ Build and Run
 
 Tests are in progress...
 
-# Contribute
